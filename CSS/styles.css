@@ -6,3 +6,11 @@ img{
 h3{
   font-family: "Apple Chancery", cursive ;
 }
+
+.ingredients{
+  background-color: rgb(164, 166, 165, 0.4);
+}
+
+.steps{
+  background-color: rgb(164, 166, 165, 0.4);
+}
